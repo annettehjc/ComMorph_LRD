@@ -1,0 +1,34 @@
+https://wordrow.kr/%EC%82%AC%ED%88%AC%EB%A6%AC/%EC%A0%84%EA%B5%AD/%EB%AA%A8%EB%93%A0%ED%92%88%EC%82%AC/
+전국 지역 사투리 모음 (다운로드 해서 word list로 만들면 좋을듯, and in dict format with 서울말)
+
+https://aihub.or.kr/
+AI용 데이터 찾기 (제주방언 관련 자료 찾을 수 잇을 듯)
+
+https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=121
+제주 방언 발화 음성 데이터
+
+https://www.kaggle.com/datasets/bryanpark/jit-dataset
+제주 방언 사전 (아직 뭔지 잘 모르겠음)
+
+https://smilegate.ai/2020/09/28/ai-corpus-korean/
+한국어용 AI 데이터 제공 사이트
+
+http://jst.re.kr/upload/board/pdf/103_1531959325851.pdf
+제주어 사전 
+
+https://www.jeju.go.kr/culture/dialect/dictionary.htm
+제주어 사전 2
+
+https://www.jeju.go.kr/culture/dialect/notation.htm
+제주어 표기법
+
+https://www.riss.kr/search/Search.do?isDetailSearch=N&searchGubun=true&viewYn=OP&queryText=&strQuery=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EB%B0%A9%EC%96%B8&exQuery=&exQueryText=&order=%2FDESC&onHanja=false&strSort=RANK&p_year1=&p_year2=&iStartCount=40&orderBy=&mat_type=&mat_subtype=&fulltext_kind=&t_gubun=&learning_type=&ccl_code=&inside_outside=&fric_yn=&db_type=&image_yn=&gubun=&kdc=&ttsUseYn=&l_sub_code=&fsearchMethod=search&sflag=1&isFDetailSearch=N&pageNumber=1&resultKeyword=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EB%B0%A9%EC%96%B8&fsearchSort=&fsearchOrder=&limiterList=&limiterListText=&facetList=&facetListText=&fsearchDB=&icate=bib_t&colName=bib_t&pageScale=10&isTab=Y&regnm=&dorg_storage=&language=&language_code=&clickKeyword=&relationKeyword=&query=%EC%A0%9C%EC%A3%BC%EB%8F%84+%EB%B0%A9%EC%96%B8
+riss 제주도 방언 검색 결과
+
+
+
+
+
+
+https://unibook.unikorea.go.kr/data/dictionary
+북한, 남한말 자료 사이트
