@@ -1,0 +1,18 @@
+2024.7.1
+any lang
+rich morphology language
+select a language 
+run through how the morphology is
+short appointments with groups for project discussion 
+machine learning and finite state:
+- make disambiguator; 
+- turn fst into spell checker(compose the surface part of fst, and errormodel will give all possible change, whenever it shows spelling error, it will show list of possible changes (with edit distance; we can put weights)
+
+
+- better to go with letter by letter rather than syllabus by sullabus
+- as the morphological endings depend on the ending letter not ending syllabus
+- basic concept/idea is 
+1. seperate word to letters
+2. do fst to the letter
+3. combine letters into syllabus
+4. combine syllabus into words
