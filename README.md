@@ -1,7 +1,6 @@
 # ComMorph_LRD
 Paper: Morphological Analysis on Jeju and Korean Using Transformer [(pdf)](Morphological_analysis_on_jeju_and_korean_using_transoformer_models.pdf) 
 Author: Hyunjoo Cho [(email)](hyunjoo.cho@student.uni-tuebingen.de)
-Supervisor: Çağrı Çöltekin
 
 ## Info
 This repository contains the code framework used in the study to measure similarity between Korean and Jeju using encoder-decoder transformer models.
