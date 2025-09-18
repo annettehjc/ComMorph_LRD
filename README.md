@@ -1,5 +1,5 @@
 # ComMorph_LRD
-Paper: Morphological Analysis on Jeju and Korean Using Transformer [(pdf)](Morphological_analysis_on_jeju_and_korean_using_transoformer_models.pdf) 
+Paper: Morphological Analysis on Jeju and Korean Using Transformer [(pdf)](Morphological_analysis_on_jeju_and_korean_using_transoformer_models.pdf)   
 Author: Hyunjoo Cho [(email)](hyunjoo.cho@student.uni-tuebingen.de)
 
 ## Info
